@@ -6,9 +6,15 @@ Basic showcase of Python skills 10
 ### Question 1
 Given an array of integers, return how many of them contain an even number of digits.
 
+<<<<<<< HEAD
 ### Example 1
 - Input: nums = `[12,345,2,6,7896]`
 - Output: 2
+=======
+Example 1:
+Input: nums = `[12,345,2,6,7896]`
+Output: 2
+>>>>>>> ef9296c52e7e1f32357639709eeab03180cea0e4
 
 Explanation:
 12 contains 2 digits (even number of digits).
